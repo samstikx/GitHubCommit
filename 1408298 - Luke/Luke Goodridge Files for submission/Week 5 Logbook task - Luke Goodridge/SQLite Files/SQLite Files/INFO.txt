@@ -1,0 +1,6 @@
+Create a Plugins folder in your Unity Project Assets folder.
+
+Place the following in the Plugins folder:
+	Mono.Data.SqliteClient.dll
+	System.Data.dll
+	Either the 32-bit or 64-bit sqlite3 file
